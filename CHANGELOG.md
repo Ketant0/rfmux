@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.1](https://github.com/Ketant0/rfmux/compare/v1.3.0...v1.3.1) (2026-01-07)
+
+
+### Bug Fixes
+
+* **just-testing-fix:** k bro ([e99ddb1](https://github.com/Ketant0/rfmux/commit/e99ddb19dfaba19119f733cb65643aafeb2f3c44))
+
 ## [1.3.0](https://github.com/Ketant0/rfmux/compare/v1.2.0...v1.3.0) (2026-01-07)
 
 
