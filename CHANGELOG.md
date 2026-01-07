@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/Ketant0/rfmux/compare/v1.2.0...v1.3.0) (2026-01-07)
+
+
+### Features
+
+* **Some-test:** some test ([f62e962](https://github.com/Ketant0/rfmux/commit/f62e962b251e3e151b2d5535e60647cc200e56d4))
+
 ## 1.2.0 (2026-01-06)
 
 
