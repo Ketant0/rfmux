@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://github.com/Ketant0/rfmux/compare/v1.3.1...v1.4.0) (2026-01-12)
+
+
+### Features
+
+* **updated-the-release-structure:** it releases and builds on second try ([3ef3c2f](https://github.com/Ketant0/rfmux/commit/3ef3c2fb0b6c6c8c21a6f385e977c811a706ac6c))
+
 ## [1.3.1](https://github.com/Ketant0/rfmux/compare/v1.3.0...v1.3.1) (2026-01-07)
 
 
